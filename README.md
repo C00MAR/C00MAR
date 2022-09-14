@@ -39,8 +39,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c00mar&label=Nb%20de%20Vue&color=000000&style=flat" alt="c00mar" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=c00mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c00mar&theme=dark&border_radius=8&locale=fr)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c00mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
