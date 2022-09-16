@@ -7,7 +7,7 @@
 
 - 💬 Vous pouvez me contacter sur **moureau.marc78@gmail.com**
 
-- 🧐 Étudie à L'IIM (Groupe Léonard de Vinci) [IIM.fr](https://www.iim.fr/)
+- 🧐 Étudie à L'IIM (Groupe Léonard de Vinci) [IIM.fr](https://www.iim.fr/) <img src="https://www.iim.fr/ecole-web/fav/favicon-32x32.png" alt="IIM" width="16" height="16"/>
 
 
 <h1 align="center"></h1>
