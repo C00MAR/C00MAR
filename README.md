@@ -3,7 +3,7 @@
 
 
 
-- 🗃️ J'apprends en ce moment **le Symfony** et **le Node.js**
+- 🗃️ J'apprends en ce moment **le Symfony** et **le Vue.js**
 
 - 💬 Vous pouvez me contacter sur **moureau.marc78@gmail.com**
 
